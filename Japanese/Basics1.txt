@@ -1,0 +1,6 @@
+Sushi = is as same 
+mizu = water 
+niku = meat
+soba = kind of noodle
+mochi = kind of sweet in japan 
+ocha = green tea 
